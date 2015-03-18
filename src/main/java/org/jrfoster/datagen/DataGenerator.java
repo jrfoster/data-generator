@@ -1,4 +1,4 @@
-package com.orionhealth.sample;
+package org.jrfoster.datagen;
 
 import java.io.File;
 import java.io.FileNotFoundException;

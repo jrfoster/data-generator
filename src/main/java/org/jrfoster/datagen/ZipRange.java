@@ -1,4 +1,4 @@
-package com.orionhealth.sample;
+package org.jrfoster.datagen;
 
 /**
  * This enumeration provides a close approximation of zip code ranges within a

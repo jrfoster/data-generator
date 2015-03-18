@@ -1,4 +1,4 @@
-package com.orionhealth.sample;
+package org.jrfoster.datagen;
 
 /**
  * This class represents a coded value, like a diagnosis code, or other code

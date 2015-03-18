@@ -1,4 +1,4 @@
-package com.orionhealth.sample;
+package org.jrfoster.datagen;
 
 import org.apache.commons.lang3.StringUtils;
 

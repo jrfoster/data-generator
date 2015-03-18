@@ -1,15 +1,14 @@
-package com.orionhealth.tools;
+package org.jrfoster.datagen;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.jrfoster.datagen.DataGenerator;
+import org.jrfoster.datagen.ZipRange;
 import org.junit.Assert;
 import org.junit.Test;
-
-import com.orionhealth.sample.DataGenerator;
-import com.orionhealth.sample.ZipRange;
 
 public class DataGeneratorTester {
 	private DataGenerator dg = new DataGenerator(10, 2);
